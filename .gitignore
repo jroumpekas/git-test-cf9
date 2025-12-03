@@ -1,7 +1,11 @@
 .idea/
 GitTest9.iml
 **/*.log
+<<<<<<< HEAD
 out/
+=======
+git-test9.iml
+>>>>>>> 8b4d39d0a34dbe7afc52cb25891db6fc90c7e7fa
 
 ### Mac OS ###
 .DS_Store
